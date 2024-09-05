@@ -1,0 +1,140 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+/*header*/
+header {
+  text-align: center;
+  padding: 1.2rem;
+}
+
+h1 {
+  padding-bottom: 0.3rem;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 540;
+}
+
+header p {
+  font-size: 13px;
+  padding-bottom: 1.1rem;
+  font-weight: 530;
+  font-family: sans-serif;
+}
+
+/*first section*/
+.inicio {
+  text-align: center;
+}
+.inicio h2 {
+  font-weight: 500;
+  padding-bottom: 0.6rem;
+}
+.inicio p {
+  font-family: sans-serif;
+  padding-bottom: 1rem;
+}
+.inicio button {
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  background-color: #000;
+  border: 2px solid transparent;
+  border-radius: 1.9rem;
+  width: 130px;
+  height: 38px;
+  cursor: pointer;
+}
+
+/*image*/
+figure {
+  text-align: center;
+}
+img {
+  width: 500px;
+  height: 400px;
+}
+/*second section*/
+.second {
+  text-align: center;
+  margin: 1.0rem;
+}
+.second h2 {
+  padding: 0.7rem;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+.second p {
+  padding-bottom: 1rem;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+/*second section buttons*/
+.category {
+    margin: 0.3rem;
+    margin-top:0.5rem ;
+    margin-bottom:0.5rem ;
+    text-transform: capitalize;
+  display: inline-block;
+  font-weight: 700;
+  color: #fff;
+  background-color: #00b5ef;
+  border: 2px solid transparent;
+  border-radius: 1.9rem;
+  width: 115px;
+  height: 38px;
+  cursor: pointer;
+  
+}
+.expanding {
+    margin: 0.3rem;
+    margin-top:0.5rem ;
+    margin-bottom:0.5rem ;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  background-color: #000;
+  border: 2px solid transparent;
+  border-radius: 1.9rem;
+  width: 130px;
+  height: 38px;
+  cursor: pointer;
+}
+/*third section*/
+.third {
+  text-align: center;
+  padding: 1.0rem;
+}
+.third h2{
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.third p{
+    padding: 1.0rem;
+    font-family: sans-serif;
+}
+
+.third button {
+    margin: 0.3rem;
+    margin-top:0.5rem ;
+    margin-bottom:0.5rem ;
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    background-color: #000;
+    border: 2px solid transparent;
+    border-radius: 1.9rem;
+    width: 130px;
+    height: 38px;
+    cursor: pointer;
+}
+/*footer*/
+footer {
+  padding: 1.2rem;
+  text-align: center;
+  background-color: #232323;
+  color: #fff;
+}

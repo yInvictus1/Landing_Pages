@@ -1,0 +1,106 @@
+body{
+    height: 100vh;
+    background-color: rgb(10, 10, 10);
+    background-repeat: no-repeat;
+    font-family: 'Montserrat',sans-serif;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    width: 63%; 
+    margin: 1rem auto;
+    background-color: black;
+    padding: 1.2rem;
+}
+.logotipo{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.nav-header a{
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    transition: all .8s;
+}
+.nav-header a:hover{
+    text-decoration: underline;
+}
+.nav-header a.actived{
+    background-color: rgb(201, 236, 26);
+    border-radius: 10px;
+    color: black;
+    pointer-events: none;
+}
+.main-content h2{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 48px;
+    margin: 2rem;
+}
+.plans{
+    width: 67%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    color: #fff;
+}
+.plan{
+    width: 400px;
+    height: 390px;
+    background-color: rgb(47, 47, 58);
+    padding: 1rem;
+    border-radius: 10px;
+    position: relative;
+}
+.plan h2{
+    border-bottom: 2px solid rgb(201, 236, 26);
+    padding: .6rem 0;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+.valours{
+    display: flex;
+    align-items: center;
+}
+.plan .money{
+    margin: .7rem 0;
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    line-height: 1.6;
+
+}
+.plan .month{
+    font-size: 15px;
+}
+.plan ul{
+    color: rgb(201, 236, 26);
+    margin: 0 .7rem;
+}
+.plan ul li{
+    margin: .5rem;
+}
+.plan ul li p{
+    color: #fff;
+    font-size: 14px;
+}
+.plan .buy{
+    position: absolute;
+    left: 10%;
+    bottom: 8%;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: rgb(201, 236, 26);
+    color: black;
+    padding: 1rem 5rem;
+    border-radius: 10px;
+    font-weight: 600;
+}

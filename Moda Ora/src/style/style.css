@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    overflow-x: hidden;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #162028;
+    padding: 1rem 3rem;
+    color: white;
+    font-size: 1.2rem;
+}
+.cabecalho h2{
+    font-family: "Viaoda Libre",sans-serif;
+}
+.cabecalho ul{
+    display: flex;
+    gap: 20px;
+    text-transform: uppercase;
+    list-style: none;
+}
+.cabecalho ul li a{   
+    text-decoration: none;
+    color: #425564;
+}
+
+.hero img{
+    height: 92.25vh;
+    width: 100vw;
+}
+.main-content{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.main-content h2{
+    font-family:"Viaoda Libre",sans-serif;
+    margin: 5rem auto 1rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.main-content p{
+    padding: 1rem;
+    letter-spacing: 1.2;
+    line-height: 2;
+    font-size: 20px;
+    width: fit-content;
+    color: #555;
+}
+.models{
+    color: #555;
+    margin: 3rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    flex-grow: 1;
+}
+.models .model figcaption{
+    font-family:"Roboto",sans-serif;
+    padding-top: 1rem;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.models .model p{
+    text-align: center;
+    margin: 0 3rem;
+}
+.models .model img{
+    border-radius: 10px;
+}
+.about{
+    background-image: url(../img/bg_detalhe.png);
+    background-repeat: no-repeat;
+background-size: contain;
+    width: 100vw;
+    height: 80vh;
+}
+.rodape{
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #0b171f;
+    color: #6f8597;
+    letter-spacing: 3px;
+}
