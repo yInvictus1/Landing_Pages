@@ -13,7 +13,9 @@ Bem-vindo ao meu repositório de projetos! Aqui, você encontrará uma coleção
 - **/projetos** - Pasta contendo subpastas para cada projeto individual.
   - **/projeto1** - Tela inicial de exemplo 1
   - **/projeto2** - Tela inicial de exemplo 2
-  - ... (continue conforme o número de projetos)
+   - **/projeto1** - Tela inicial de exemplo 3
+   - **/projeto1** - Tela inicial de exemplo 4
+   -  **/projeto1** - Tela inicial de exemplo 5
 
 ## 🔧 Como Utilizar
 
