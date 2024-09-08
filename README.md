@@ -11,11 +11,11 @@ Bem-vindo ao meu repositório de projetos! Aqui, você encontrará uma coleção
 ## 📁 Estrutura do Repositório
 
 - **/projetos** - Pasta contendo subpastas para cada projeto individual.
-  - **/projeto1** - Tela inicial de exemplo 1
-  - **/projeto2** - Tela inicial de exemplo 2
-   - **/projeto1** - Tela inicial de exemplo 3
-   - **/projeto1** - Tela inicial de exemplo 4
-   -  **/projeto1** - Tela inicial de exemplo 5
+  - **/projeto1** - Tela inicial de um site de Bioparque aquático
+  - **/projeto2** - Tela inicial site de venda de pacotes de armazenamento
+   - **/projeto1** - Tela inicial site de venda de cursos de programação
+   - **/projeto1** - Tela inicial 
+   -  **/projeto1** - Tela inicial siteque simula um livraria Online(Tela inical bem básica)
 
 ## 🔧 Como Utilizar
 
