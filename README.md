@@ -12,10 +12,10 @@ Bem-vindo ao meu repositório de projetos! Aqui, você encontrará uma coleção
 
 - **/projetos** - Pasta contendo subpastas para cada projeto individual.
   - **/projeto1** - Tela inicial de um site de Bioparque aquático
-  - **/projeto2** - Tela inicial site de venda de pacotes de armazenamento
-   - **/projeto1** - Tela inicial site de venda de cursos de programação
-   - **/projeto1** - Tela inicial 
-   -  **/projeto1** - Tela inicial siteque simula um livraria Online(Tela inical bem básica)
+  - **/Moda Ora** - Tela Inicial de um site de venda de Roupa
+   - **/Aprenser** - Tela inicial site de venda de cursos de programação
+   - **/Choose your Plan** - Tela inicial site de venda de pacotes de armazenamento
+   -  **/Bookstep** - Tela inicial siteque simula um livraria Online(Tela inical bem básica)
 
 ## 🔧 Como Utilizar
 
